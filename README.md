@@ -3,7 +3,7 @@ A simple crud api built with FastAPI and SQLAlchemy
 
 Work in progress
 
-## To-do-list to-do list
+## To-do-api to-do list
 - More routes
 - Unit tests
 - Back-end to Postgres
